@@ -15,8 +15,6 @@ __pycache__/
 # Arquivos com senhas ou chaves de API (NUNCA envie para o GitHub)
 .env
 
-# Local datasets
-data/*.csv
 
 # Virtual environment configuration
 pyvenv.cfg
